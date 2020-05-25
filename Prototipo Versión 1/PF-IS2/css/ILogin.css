@@ -1,0 +1,22 @@
+.contenedor{
+    margin-top: 150px;
+}
+
+#user-img{
+    height: 150px;
+    width: 150px;
+    margin-bottom: 40px;
+}
+
+#user{
+    margin-bottom: 20px;
+}
+
+#pass{
+    margin-bottom: 50px;
+}
+
+#log, #regis{
+    width: 120px;
+    border-radius: 13px;
+}

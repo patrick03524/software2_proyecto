@@ -1,0 +1,16 @@
+.contenedor{
+    margin-top: 120px;
+}
+
+#fname, #lname, #hint, #user, #pass{
+    margin-bottom: 20px;
+}
+
+#confpass{
+    margin-bottom: 50px;
+}
+
+#cont, #canc{
+    width: 120px;
+    border-radius: 13px;
+}
